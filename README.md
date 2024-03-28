@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm ROsyid Dwi Setyawan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I'm Rosyid Dwi Setyawan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
 <!--
 **rosyiddwisetyawan/rosyiddwisetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
