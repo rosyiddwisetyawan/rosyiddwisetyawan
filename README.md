@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Rosyid Dwi Setyawan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <h3 align="center">Software Developer, Backend Developer, Mobile Developer Android</h3>
 
-
 - 🔭 I’m currently working on several web project
 - 🌱 I’m currently learning about AI / Machine learning
 - ⚡ Fun fact: Iam a fast learner
@@ -18,8 +17,8 @@
 <h5>PT. TUNAS SUKSES MANDIRI (Nusatrip). Java Developer</h4>
 <h5>PT. MAGNUS DIGITAL INDONESIA. Senior Backend Developer</h4>
 <h5>PT. KARYA INDONESIA CERDAS. Senior Backend Developer</h4>
-<h5>PT. KING NETWORK INDONESIA. FullStack</h4>
-<h5>PT. SINERGI INSANI PRIMANET. Software developer and Android Developer</h4>
+<h5>PT. KING NETWORK INDONESIA. Fullstack Developer</h4>
+<h5>PT. SINERGI INSANI PRIMANET. Software Developer and Android Developer</h4>
 <h5>PT. MAGNUS DIGITAL INDONESIA. Junior Java Developer</h4>
 
 
