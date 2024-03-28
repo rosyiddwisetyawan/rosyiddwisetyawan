@@ -1,5 +1,11 @@
 <h1 align="center">Hello, I'm Rosyid Dwi Setyawan <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <h3 align="center">Software Developer, Backend Developer, Mobile Developer Android</h3>
+- 🔭 I’m currently working on several web project
+- 🌱 I’m currently learning about AI / Machine learning
+- ⚡ Fun fact: Iam a fast learner
+
+-tes
+-- test
 
 <!--
 **rosyiddwisetyawan/rosyiddwisetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
