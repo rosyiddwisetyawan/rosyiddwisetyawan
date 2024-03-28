@@ -12,8 +12,7 @@
 
 <br>
 
-<h3>Portofolio</h3>
-<br>
+## Portofolio
 <h5>PT. TUNAS SUKSES MANDIRI (Nusatrip). Java Developer</h4>
 <h5>PT. MAGNUS DIGITAL INDONESIA. Senior Backend Developer</h4>
 <h5>PT. KARYA INDONESIA CERDAS. Senior Backend Developer</h4>
