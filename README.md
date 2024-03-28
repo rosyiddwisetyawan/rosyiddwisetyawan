@@ -11,6 +11,10 @@
 <h4>Linkedin : <a href="https://www.linkedin.com/in/rosyid-dwi-setyawan-090683146/">Rosyid Dwi Setyawan</a></h4>
 <h4>WhatsApp : <a href="https://wa.me/628889832339">Call Me</a></h4>
 
+
+
+
+
 <h3>Portofolio</h3>
 <h4>PT. TUNAS SUKSES MANDIRI (Nusatrip). Java Developer</h4>
 <h4>PT. MAGNUS DIGITAL INDONESIA. Senior Backend Developer</h4>
