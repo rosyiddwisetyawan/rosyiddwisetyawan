@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning about AI / Machine learning
 - ⚡ Fun fact: Iam a fast learner
 
-#tes
-## test
+## linkedin : https://www.linkedin.com/in/rosyid-dwi-setyawan-090683146/
+## gmail    : dwisetyawanrosyid@gmail.com
 
 <!--
 **rosyiddwisetyawan/rosyiddwisetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
