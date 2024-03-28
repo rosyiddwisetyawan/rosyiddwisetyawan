@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning about AI / Machine learning
 - ⚡ Fun fact: Iam a fast learner
 
-<br><br>
+<br>
 
 <h4>Linkedin : <a href="https://www.linkedin.com/in/rosyid-dwi-setyawan-090683146/">Rosyid Dwi Setyawan</a></h4>
 <h4>WhatsApp : <a href="https://wa.me/628889832339">Call Me</a></h4>
 
-<br><br>
+<br>
 
 <h3>Portofolio</h3>
 <br>
