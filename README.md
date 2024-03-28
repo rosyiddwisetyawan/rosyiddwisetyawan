@@ -13,12 +13,15 @@
 
 <br><br>
 
-<h3 style="color:red!important;">Portofolio</h3>
+<h3>Portofolio</h3>
+<br>
+<h5>PT. TUNAS SUKSES MANDIRI (Nusatrip). Java Developer</h4>
+<h5>PT. MAGNUS DIGITAL INDONESIA. Senior Backend Developer</h4>
+<h5>PT. KARYA INDONESIA CERDAS. Senior Backend Developer</h4>
+<h5>PT. KING NETWORK INDONESIA. FullStack</h4>
+<h5>PT. SINERGI INSANI PRIMANET. Software developer and Android Developer</h4>
+<h5>PT. MAGNUS DIGITAL INDONESIA. Junior Java Developer</h4>
 
-<h4>PT. TUNAS SUKSES MANDIRI (Nusatrip). Java Developer</h4>
-<h4>PT. MAGNUS DIGITAL INDONESIA. Senior Backend Developer</h4>
-<h4>PT. SINERGI INSANI PRIMANET. Software developer and Android Developer</h4>
-<h4>PT. MAGNUS DIGITAL INDONESIA. Junior Java Developer</h4>
 
 <!--
 **rosyiddwisetyawan/rosyiddwisetyawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
