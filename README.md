@@ -13,7 +13,7 @@
 
 <br><br>
 
-<h3 style="background-colour: Red">Portofolio</h3>
+<h3 style="color:red;">Portofolio</h3>
 
 <h4>PT. TUNAS SUKSES MANDIRI (Nusatrip). Java Developer</h4>
 <h4>PT. MAGNUS DIGITAL INDONESIA. Senior Backend Developer</h4>
